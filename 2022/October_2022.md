@@ -1,4 +1,4 @@
-mirror.albony.xyz October 2022 Usage Stats:
+# mirror.albony.xyz October 2022 Usage Stats:
 - [Key highlights](#key-highlights)
 
 ## Key highlights
