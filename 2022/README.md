@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://mirror.albony.xyz"><img src="https://blog.albony.xyz/mirror.png" width="1750px"alt="< mirror.albony.xyz >"></a>
+    <a href="https://mirror.albony.xyz"><img src="https://blog.albony.xyz/mirror.png" width="1000px"alt="< mirror.albony.xyz >"></a>
 </h1>
  
 <h3 align="center">Mirror for FOSS hosted by @albonycal</h3>
