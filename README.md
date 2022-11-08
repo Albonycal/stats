@@ -4,7 +4,7 @@
     <a href="https://mirror.albony.xyz"><img src="https://blog.albony.xyz/mirror.png" width="850px"alt="< mirror.albony.xyz >"></a>
 </h1>
  
-<h3 align="center">Mirror for FOSS hosted by @albonycal</h3>
+<h3 align="center">Mirror hosted by @albonycal</h3>
 
 ---
 
