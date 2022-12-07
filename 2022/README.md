@@ -8,6 +8,7 @@
 
 ## mirror.albony.xyz 2022 Usage Stats
 
+* [November 2022](November_2022.md) 
 * [October 2022](October_2022.md)
 ## Incidents 
 
