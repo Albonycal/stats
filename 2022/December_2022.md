@@ -6,7 +6,7 @@
 - This month, mirror used **a massive consumption of 12 TB of data** to serve these requests.
 - Peak daily usage was ***0.89 TB.*** 
 - (Estimated) **324.50 GiB** per day.
-- Most of the traffic comes from India 🇮 followed by US and Germany.
+- Most of the traffic comes from India 🇮🇳  followed by US and Germany.
 
 
 
