@@ -11,6 +11,6 @@
 Monthly usage statistics for mirror.albony.in
 **NO longer maintained**
 
-Please check `https://mirror.nag.albony.in/stats` for current stats   
+Please check `https://mirror.albony.in/stats` for current stats   
 
 ~Welcome to the stats repository, the store of the monthly usage stats reports for the mirror.albony.xyz domain.~ 
